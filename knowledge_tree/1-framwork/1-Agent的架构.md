@@ -1,6 +1,4 @@
 
-# 1. 架构
-
 ## 1.1 React 架构（Reasoning + Acting）
 
 **React** 不是指前端框架 React，而是 **Re**asoning（推理）+ **Act**ing（行动）的缩写。
@@ -27,8 +25,3 @@
 | **循环** | 基于观察继续思考下一步 | 整理数据，回复用户 |
 
 ReAct 是目前 Agent 开发中最主流的架构模式，LangChain、AutoGPT 等项目都采用了这种设计思想。
-
-
-# 2. LLM相关
-
-## 2.1 LLM 请求失败之后如何实现优雅的降级或者错误响应？
